@@ -16,7 +16,7 @@ export default function HomePage() {
             <div className="flex space-x-3 mt-5">
 
                 <div className="overflow-hidden object-cover flex-1">
-                    <img className="object-cover h-[50vh]  md:h-[70vh]" src="/images/food1.jpg" alt="pic1" />
+                    <img className="object-cover h-[50vh]  md:h-[70vh]" src="/images/Food1.jpg" alt="pic1" />
                 </div>
 
                 <div className="overflow-hidden flex-2 h-[50vh] md:h-[70vh]">
@@ -24,18 +24,18 @@ export default function HomePage() {
                     <div className="flex flex-col space-y-3">
                         <div className=" overflow-hidden flex space-x-2 ">
                             <div className="w-full">
-                                <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh] w-full" src="/images/food2.webp" alt="pic1" />
+                                <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh] w-full" src="/images/Food2.webp" alt="pic1" />
                             </div>
 
                             <div className="w-full">
-                                <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh] w-full" src="images/food5.jpg" alt="pic1" />
+                                <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh] w-full" src="/images/Food5.jpg" alt="pic1" />
                             </div>
 
                         </div>
 
                         <div className=" overflow-hidden ">
 
-                            <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh]  w-full" src="/images/food3.webp" alt="pic1" />
+                            <img className="object-cover  overflow-hidden h-[25vh] md:h-[35vh]  w-full" src="/images/Food3.webp" alt="pic1" />
                         </div>
 
 
